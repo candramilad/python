@@ -1,4 +1,3 @@
-# python
 #Multiple Input for Introduction
 
 firstname = input("What is your first name? ")
